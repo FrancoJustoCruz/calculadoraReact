@@ -1,0 +1,15 @@
+.data-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 375px;
+  }
+  
+  .input-bill {
+    background-image: url('./images/icon-dollar.svg');
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-origin: content-box;
+    padding: 0 20px;
+  }
